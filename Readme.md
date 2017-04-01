@@ -7,14 +7,14 @@
 
 ## Case Study - Tic Tac Toe Example
 
-<img src="tictac.png" width=200 align=left>
+<img src="tictac.png" width=200>
 
 * The reinforcement learning for the Tic Tac Toe game is analyzed
 
 ### Class Diagram
 
 
-<img src="class diag.JPG" width=500 align=left>
+<img src="class diag.JPG" width=500>
 
 
 ```python
