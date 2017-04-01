@@ -16,6 +16,12 @@
 
 <img src="classdiag.jpg" width=500>
 
+### References
+
+
+* http://reinforcementlearning.ai-depot.com/
+* https://web.archive.org/web/20161012193604/https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf
+
 
 ```python
 
