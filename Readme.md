@@ -1,0 +1,22 @@
+
+# Reinforcement Learning
+
+* Reinforcement Learning is a type of Machine Learning, and thereby also a branch of Artificial Intelligence. 
+* It allows machines and software agents to automatically determine the ideal behaviour within a specific context, in order to maximize its performance. 
+* Simple reward feedback is required for the agent to learn its behaviour; this is known as the reinforcement signal.
+
+## Case Study - Tic Tac Toe Example
+
+<img src="tictac.png" width=200 align=left>
+
+* The reinforcement learning for the Tic Tac Toe game is analyzed
+
+### Class Diagram
+
+
+<img src="class diag.JPG" width=500 align=left>
+
+
+```python
+
+```
