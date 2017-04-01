@@ -14,7 +14,7 @@
 ### Class Diagram
 
 
-<img src="class diag.JPG" width=500>
+<img src="classdiag.jpg" width=500>
 
 
 ```python
